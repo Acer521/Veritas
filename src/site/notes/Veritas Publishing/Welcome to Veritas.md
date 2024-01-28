@@ -19,3 +19,4 @@ My name is Kristoffer and there are two things I love most in this world: readin
 # Systems Theory
 [[Veritas Publishing/How to read System Diagrams\|How to read System Diagrams]]
 [[Veritas Publishing/Antifragility\|Antifragility]]
+[[Veritas Publishing/Beer Distribution Game\|Beer Distribution Game]]
