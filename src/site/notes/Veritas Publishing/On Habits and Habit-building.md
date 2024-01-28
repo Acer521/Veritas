@@ -172,7 +172,7 @@ It is vital to understand each techniques above first (perhaps even the principl
 
 | **Habit:**                                | **Workout**                                                                                                  |
 |:----------------------------------------- |:------------------------------------------------------------------------------------------------------------ |
-| **I’m the type of person who**            | never lets exhaustion or the constraints   of the universe stop him from getting ripped as fuckkkkkkk        |
+| **I’m the type of person who**            | Never lets exhaustion or the constraints of the universe stop him from getting ripped as fuckkkkkkk        |
 | **Time**                                  | 02:00PM                                                                                                      |
 | **Location**                              | Balcony                                                                                                      |
 | **Current Habit I Can Stack On**          | After my afternoon nap                                                                                       |
