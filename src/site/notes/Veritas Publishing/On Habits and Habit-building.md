@@ -3,7 +3,6 @@
 ---
 
 #  On Habits and Habit-Building 
-<p style="text-align:right;">By Kristoffer M</p>
 
 Habits are powerful. A habit can be as small as doing five pushups everyday, but, eventually, it’ll compound into monumental changes. Save 10₱ a day and it’ll become 3650₱ by the end of the year. It is a very powerful concept. The habit can either be positive or negative; eitherway, they compound, altering your entire life, whether you’re aware of it or not. 
 
