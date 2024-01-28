@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/veritas-publishing/on-habits-and-habit-building/"}
 ---
 
-#  On Habits and Habit-Building 
-
 Habits are powerful. A habit can be as small as doing five pushups everyday, but, eventually, it’ll compound into monumental changes. Save 10₱ a day and it’ll become 3650₱ by the end of the year. It is a very powerful concept. The habit can either be positive or negative; eitherway, they compound, altering your entire life, whether you’re aware of it or not. 
 
 To live the life you wish to live, you must learn how to utilize this fact to your advantage, how to use the compounding effect to aid you in your endeavors and become who you want to be. 
