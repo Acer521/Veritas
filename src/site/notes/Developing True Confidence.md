@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/developing-true-confidence/"}
 ---
 
-Confidence has two definitions: (1) a feeling of certainty/assurance and (2) an act of trust/reliance. The first definition is widely used. The second definition, not so much. In this definition, confidence is not a feeling, but an action; it is ‘**an act of trust or reliance**’. This, according toACT therapy, is true confidence. When we trust in ourselves, we don’t have absolute assurance. In fact, the more there is at stake, the more we fear. Yet, we trust surgeons to do an operation competently despite this… We fear, we ruminate, but we trust. Trust in ourselves, that’s confidence, not assurance, not certainty. 
+Confidence has two definitions: (1) a feeling of certainty/assurance and (2) an act of trust/reliance. The first definition is widely used. The second definition, not so much. In this definition, confidence is not a feeling, but an action; it is ‘**an act of trust or reliance**’. This, according to ACT therapy, is true confidence. When we trust in ourselves, we don’t have absolute assurance. In fact, the more there is at stake, the more we fear. Yet, we trust surgeons to do an operation competently despite this… We fear, we ruminate, but we trust. Trust in ourselves, that’s confidence, not assurance, not certainty. 
 
 ## Confidence is Trust
 Always prioritize **Confidence The Action**, not *Confidence The Feeling*. Trusting or relying on oneself to perform an action goes a long way than just trying to make yourself “feel confident.” In speeches, I would always be afraid. But, I trust that, after minute one, I’ll be used to it and I’ll be in the groove. I just need to move forward and create that situation for myself.
