@@ -7,7 +7,7 @@ Confidence has two definitions: (1) a feeling of certainty/assurance and (2) an 
 ## Confidence is Trust
 Always prioritize **Confidence The Action**, not *Confidence The Feeling*. Trusting or relying on oneself to perform an action goes a long way than just trying to make yourself “feel confident.” In speeches, I would always be afraid. But, I trust that, after minute one, I’ll be used to it and I’ll be in the groove. I just need to move forward and create that situation for myself.
 
-> [!tldr] Example: Nelson Mandela
+> [!tldr]- Example: Nelson Mandela
 > Nelson Mandela, a beacon of resilience, defied South Africa's oppressive apartheid with unyielding courage. Despite constant threats to his life, he pursued justice, freedom, and equality. Captured by authorities, Mandela endured 27 years in prison, 18 of them in Robben Island's brutal confines. Mandela vividly details Robben Island horrors—relentless labor, quarrying limestone, beatings, starvation. Unbroken, he championed his cause, symbolizing hope for a democratic South Africa.
 > 
 > In Time Magazine's "Mandela: His 8 Lessons of Leadership," Richard Stengel unveils Mandela's admission of fear. ‘Of course I was afraid!’ Mandela told him. ‘I can’t pretend that I’m brave and that I can beat the whole world.’ But Mandela believed that a true leader must inspire his comrades and conceal his fear. He couldn’t control his feelings, but he had enough control of his facial expressions, his posture and the way he walked and talked to convey the impression of fearlessness to those around him. This inspired the prisoners on Robben Island. As they saw him walking proud, their spirits soared for days. 
