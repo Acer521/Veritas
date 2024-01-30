@@ -17,11 +17,11 @@ Always prioritize **Confidence The Action**, not *Confidence The Feeling*. Trust
 **It’s Not ‘Fake It Till You Make It’ Or ‘Grit Your Teeth’** Confidence is not about being “fake” or putting up wtih unwanted feelings. Quite the opposite, in fact. In ACT, confidence is about being true to yourself (as opposed to being ‘fake’) and handling fear in effective, life-enhancing ways (as opposed to ‘putting up with it’).
 
 ## Confident actions first; feelings of confidence later
-> We tend to believe that we need to be [[The I’ll be ready when game\|confident before we do what matters]]. We need to become confident first to do the actions we desire. We tell ourselves that we’re not ready, without even trying it. Our fear traps us. When, in truth, we have to actually do the work first before we experience confidence. 
-> 
-> Only when we take action can we build experience or practice to notice the feelings of confidence. As you get used to the idea, as you [[Confidence#Confidence is Trust\|trust]] yourself, only then will you feel confident[^1], but that shouldn’t stop you from acting in confident ways. It just means it can come after the action, much like how [[Willpower\|action can take place before motivation]]. 
-> 
-> So comes the ultimate rule: **The actions of confidence come first; the feelings of confidence come later.**
+We tend to believe that we need to be confident before we do what matters. We need to become confident first to do the actions we desire. We tell ourselves that we’re not ready, without even trying it. Our fear traps us. When, in truth, we have to actually do the work first before we experience confidence. 
+
+Only when we take action can we build experience or practice to notice the feelings of confidence. As you get used to the idea, as you trust yourself, only then will you feel confident[^1], but that shouldn’t stop you from acting in confident ways. It just means it can come after the action, much like how action can take place before motivation. 
+
+So comes the ultimate rule: **The actions of confidence come first; the feelings of confidence come later.**
 
 ### The Myth of Confidence Before Action
 The wrong rule of “I have to feel confident before I do what matters” appeals to common sense because it is easier to take action when you’re already feeling comfort. But, clinging to this belief means spending a lot of time, effort, and energy trying to control your feelings. Worst part is that trying to muster confidence won’t even eliminate fear when you feel you are “ready.” Controlling feelings is not that easy—you’ll most likely feel disappointed, frustrated, hopeless.'
