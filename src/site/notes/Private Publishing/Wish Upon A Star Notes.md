@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private-publishing/wish-upon-a-star-notes/"}
+{"dg-publish":true,"permalink":"/private-publishing/wish-upon-a-star-notes/","hide":true,"hideInGraph":true}
 ---
 
 
