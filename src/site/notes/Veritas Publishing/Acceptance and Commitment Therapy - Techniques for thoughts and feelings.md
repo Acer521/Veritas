@@ -9,7 +9,7 @@ Before we go with techniques, we must first list a few principles.
 First…
 
 # Negative Thoughts Are No Problem Unless You Fuse With Them
-We’ve heard that negative thoughts are bad, problematic, or self-defeating. Winners think positively, losers negatively. ACT, however, thinks of it differently. To ACT, negative thoughts are not inherently problematic. It is only problematic, if we get caught on in them, if we give it attention, if we treat it as gospel, if it is allowed to control us, if we fight it—something we will call “**Fusion**” as we metaphorically and needlessly *fuse* ourselves with our thoughts. Fusion is the act of giving thoughts attention, treating them as truth, allowing them to influence us, or even challenging them with evidence or mental persuasion. It only makes you struggle or avoid the emotion through distraction or inaction. 
+We’ve heard that negative thoughts are bad, problematic, or self-defeating. Winners think positively, losers negatively. ACT, however, thinks of it differently. For ACT, negative thoughts are not inherently problematic. It is only problematic, if we get caught on in them, if we give it attention, if we treat it as gospel, if it is allowed to control us, if we fight it—something we will call “**Fusion**” as we metaphorically and needlessly *fuse* ourselves with our thoughts. Fusion is the act of giving thoughts attention, treating them as truth, allowing them to influence us, or even challenging them with evidence or mental persuasion. It only makes you struggle or avoid the emotion through distraction or inaction. 
 
 ## Examples of Thoughts To Hook You
 Are these thoughts familiar? ‘I’ve got no motivation’, ‘I’ve got no discipline’, ‘I’ve got no willpower’, ‘I’m too busy’, ‘I’m too tired’, ‘I don’t have time’, ‘I don’t have the energy’, ‘I’ll start next week’, ‘I’ll fail’, ‘It’s a waste of time’, ‘I’ll make a fool of myself’, ‘I don’t have what it takes’, ‘I’m not ready’, ‘It’s too hard’, ‘I need more practice’, ‘I need to read some more books about it’, ‘I need more equipment’, ‘Other people don’t have to go through this’, ‘It shouldn’t be this difficult’, ‘I’m too anxious’ and ‘Every time I’ve tried to change I’ve always failed so why should it be any different this time?’
@@ -39,10 +39,10 @@ Negative thoughts don't have to hold us back. Joe's story screams it. No need to
 
 Take action even when the mind screams "can't." Try it: say "I can't lift my arm" and lift it. Now.
 
-The mind is never always the boss. You can take action first, think later—a lesson we will expand more later.
+The mind is never always the boss. You can take action first, think late.
 
 # Technique for Negative Thoughts: Cognitive Defusion
-We have millions of intrusive thoughts a day and they color our view of the world without us noticing. It often spirals to an endless loop of overthinking and self-sabotage. Thoughts are dangerous if we *fuse* into them—the act of giving it attention, treating it as truth, allowing it to control us, or even fighting it with evidence. It only makes you struggle or run.
+We have millions of intrusive thoughts a day and they color our view of the world without us noticing. It often spirals to an endless loop of overthinking and self-sabotage. Thoughts are dangerous if we *fuse* into them—the act of giving it attention, treating it as truth, allowing it to control us, or even fighting it with evidence. It only makes you struggle or run. 
 
 ***Cognitive defusion*** is a skill that reduces the grip of negative emotions by **separating yourself from your thoughts** and observing them objectively before letting them go. Instead of getting hooked by them. Primarily, it enables you to *be present and take effective action*.
 
