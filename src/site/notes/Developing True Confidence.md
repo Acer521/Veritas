@@ -80,7 +80,7 @@ This is what the mind gives you you whenever you do something. To get over this,
 # Do not blindly listen to your mind
 It’s better to trust your writing[^1], then whatever your mind says. Your mind is incoherent and quite literally randomly generating thoughts to hook you[^2]. Your thoughts do not have to control your actions. You can act first, and let the newly generated thoughts catch up. People are so hung up with motivation and having positive thoughts to act first, that they forget they can act first to generate these helpful thoughts.
 
-> [!example]_ Case Study
+> [!example]- Case Study
 > Joe Simpson, freezing, agony; right leg shattered, climbing partner ditched him in a crevasse. No food, water, or fire. Stranded in Peruvian Andes. Partner thought he was dead, left for base camp. Against odds, Joe crawled out, mangled leg, three days to base camp, six miles away. Throughout, negative thoughts bombarded Joe. No positive vibes, just the belief he'd die. But he kept going, inch by inch, despite his mind screaming it was futile. Action overcame doubt.
 
 Negative thoughts don't have to hold us back. Joe's story screams it. No need to wait for positivity. 
