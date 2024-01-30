@@ -14,9 +14,9 @@ My name is Kristoffer and there are two things I love most in this world: readin
 
 # Psychology and Therapy
 [[Veritas Publishing/Acceptance and Commitment Therapy - Techniques for thoughts and feelings\|Acceptance and Commitment Therapy - Techniques for thoughts and feelings]]
-[[Fear doesn’t need to hold you back\|Fear doesn’t need to hold you back]]
-[[Developing True Confidence\|Developing True Confidence]]
-[[How to Accept Yourself\|How to Accept Yourself]]
+[[Veritas Publishing/Fear doesn’t need to hold you back\|Fear doesn’t need to hold you back]]
+[[Veritas Publishing/Developing True Confidence\|Developing True Confidence]]
+[[Veritas Publishing/How to Accept Yourself\|How to Accept Yourself]]
 [[Veritas Publishing/Stop Comparing Yourself With Others\|Stop Comparing Yourself With Others]]
 # How to Learn
 [[Veritas Publishing/My Modified Zettelkasten (Obsidian) Tutorial\|My Modified Zettelkasten (Obsidian) Tutorial]]
