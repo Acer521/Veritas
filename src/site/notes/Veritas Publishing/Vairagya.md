@@ -34,7 +34,7 @@
 
 **You’re not entitled to the fruits of your actions, all you’re entitled to IS your actions**. You’re not entitled to getting an A, the only thing you’re entitled to is studying. You can study as much as you want, but there’s no true guarantee you’re even passing. Expecting otherwise leads to unneeded suffering.
 
-We think actions control outcomes, but [[Control Fallacies\|it doesn’t]]. You can work towards something, but you can’t guarantee that it will happen. Yet, we become entitled to a particular outcome and we suffer for it. To accept failure and setbacks, one must understand what they’re entitled to and not entitled to. 
+We think actions control outcomes, but it doesn’t. You can work towards something, but you can’t guarantee that it will happen. Yet, we become entitled to a particular outcome and we suffer for it. To accept failure and setbacks, one must understand what they’re entitled to and not entitled to. 
 
 The source of suffering comes from a miscalculation of what we’re *owned* in life. So, ask yourself: What was I really owed in this situation? Did I do the best I can? Is it really mine to control whether I succeed or fail? Did I really deserve to succeed?
 
@@ -76,9 +76,9 @@ The more you step away from expectations, the easier it is to accept failure.
 > "It's not what happens to you, but how you react to it that matters."
 > — Epictetus
 
-→ Actions should be based on a direction, goals, and [[Our Identity Affects Our Habits\|identity]].  
+→ Actions should be based on a direction, goals, and identity.  
 → Focusing on process and actions instead of outcomes makes you successful because it lets you achieve you [[Flow State\|flow]]. 
-→ When [[Rumination\|ruminating]], reflect on your past actions, but detach from self-judgements.
+→ When ruminating, reflect on your past actions, but detach from self-judgements.
 
 ___
 
