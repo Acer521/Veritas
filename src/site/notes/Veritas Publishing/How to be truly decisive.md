@@ -25,7 +25,7 @@ Wishing “I hope it will work out for me” will just make you complacent. Ment
 - Mistakes and inefficiencies are completely normal. There is no way to avoid it. So, accept it and try instead to make every decision work for you so that you make less of it. If you do it enough, you’ll get really good at it.
 - The wrongness isn’t in the choice, but in what you do after you make a choice. If you make a perceived mistake, you shouldn’t whine or get traumatized by it. You should work to still get the outcome you need. 
 - If you’re open to mistakes—and you should be—that enables you to fully committed. If you’re fully committed, you can change any outcome and learn how to change any outcome, which results to fewer mistakes. 
-- If you make the “wrong choice”, it doesn’t matter since you have the capacity to **pivot** or even [[Make Reversible Decisions\|reverse it]]. You can always pivot (which you should fully-commit to). It’s better to be decisive about the choice and about the pivot, then being indecisive about both of them. 
+- If you make the “wrong choice”, it doesn’t matter since you have the capacity to **pivot** or even make **Reversible Decisions**. You can always pivot (which you should fully-commit to). It’s better to be decisive about the choice and about the pivot, then being indecisive about both of them. 
 - People who are decisive, who are open to mistakes and inefficiencies, who know the that they can pivot any time, are more happy and have less regrets than people who overthink decisions.
 
 ### Get Comfortable With Imperfect Decisions
@@ -38,7 +38,7 @@ Wishing “I hope it will work out for me” will just make you complacent. Ment
 
 <u>Questions to Ask Yourself</u>: What would I do if I wasn’t *afraid*? How do I *prevent and repair* the worst case scenario? What’s the benefits of my *partial success or attempt*? What’s the cost of *inaction*? What’s the *smallest step* I can take forward? 
 
-[[Vairagya\|Vairāgya – Do your best and let go of the result]] 
+[[Veritas Publishing/Vairagya\|Vairāgya – Do your best and let go of the result]] 
 
 ___
 
