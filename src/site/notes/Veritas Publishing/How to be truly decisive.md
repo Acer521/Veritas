@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/veritas-publishing/how-to-be-truly-decisive/"}
 ---
 
-> Thinking hard on decisions, like making pros and cons lists, is not being decisive. It’s expecting others to make the decision for us. We’re postponing. We do this because of our fear of regret, we want to make the “right decision”—but that doesn’t exist. True decisiveness is deciding despite incomplete information, then making it work. 
+> Thinking hard on decisions, like making pros and cons lists, is not being decisive. It’s expecting others to make the decision for us. We’re postponing. We do this because of our fear of regret, we want to make the “right decision”—but that doesn’t exist. That’s just a cognitive bias called “*Outcome Bias*” which is whenever people try to figure out if an outcome of a decision is already good or bad when other factors like luck are involved too. True decisiveness is deciding despite incomplete information, then **making it work**. 
 
 ### Make Wrong Decisions
 Most of our fear of regrets is often hinged on inefficiency. We don’t like it because time is limited. Theoretically, people who make fast decisions should be inefficient, living a life full of regret. Is this true though? There are plenty of people making decisions without worry and they’re alright. They just shrug and choose. In fact, a lot of them seem happier and less anxious. A lot of them seems to have less regrets! Why is that? They should be making mistakes most of the time. How is making wrong decisions helpful? 
