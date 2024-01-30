@@ -60,4 +60,4 @@ ___
 > -   Dweck, C. S. (2017). Mindset: Changing the way you think to fulfil your potential. Robinson.
 
 [^1]: They can also, and aren’t afraid to, pivot.
-[^2]: In DOTA, sometimes your team is doing something stupid. Half of your team is making a stupid play. Sometimes the only choice that you got when your team is making a stupid play is to make it with them. Decisive stupid plays will outperform indecisive good plays. It’s fascinating because good decision-makers find a way to make it work.
+[^2]: In DOTA, sometimes your team is doing something stupid. Half of your team is making a stupid play. Sometimes the only choice that you got when your team is making a stupid play is to make it with them, as trying to do your own thing will just make it worse. Decisive stupid plays will outperform indecisive good plays. It’s fascinating because that’s the trait of good decision-makers: finding a way to make anything they encounter work.
