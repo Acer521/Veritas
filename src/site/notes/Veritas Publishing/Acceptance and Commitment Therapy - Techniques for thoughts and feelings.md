@@ -138,7 +138,7 @@ When we say that someone looks confident, we have no idea what they are thinking
 
 When *fusing with thoughts*, you miss out on the world. However, when you defuse, the world comes into focus, and you could see more clearly and ‘take it all in.’ To get most out of life, you must be fully present: aware, attentive, and engaged.
 
-### The Power of Engangement
+### The Power of Engagement
 You want to have great sex, or a great conversation, or a great game of golf; if you want to write well, sing well, run well; if you want to speak well, negotiate well or compete well, then you have to be psychologically present. You need to be engaged in what is happening.
 
 Suppose you’re playing tennis, and instead of keeping your attention on the ball, you focus on all the thoughts inside your head: ‘Am I holding the racket correctly?’, ‘Are my feet in the best position?’, ‘Wow, that ball’s coming so fast.’ If your focus is on your thoughts rather than the ball, then what quality of game are you likely to play? Chances are, not very good. If you want to play well, you need to keep your attention on the ball.
