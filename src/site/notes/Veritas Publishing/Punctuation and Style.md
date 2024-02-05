@@ -82,7 +82,7 @@
 - **The main clause is followed by a series of parallel elements**: *“She peered into the dark room, fearing for her life, listening for the slightest sound, wondering if the murderer lurked within.*”
 - More relaxed than periodic. It caps off a series, a grace note after the downbeat. 
 
-> [!important] Rhetorical Schemes
+> [!important]- Rhetorical Schemes
 > ### <u>Schemes</u>
 > **There are four basic types of schemes**: <u>schemes of balance</u> (such as antithesis and parallelism), <u>schemes of inversion or unusual word order</u> (as in “Ask not …” and Yoda’s speech patterns), <u>schemes of omission</u> (such as ellipses), and <u>schemes of repetition</u> (such as antimetabole and chiasmus).
 > 
@@ -135,7 +135,7 @@
 > <u>Writing and Imagination</u>
 > - Do not inhibit yourself. Try to list different metaphors, different objects to focus on, different descriptions, different styles, then decide later. Be as ridiculous as possible. 
 
-> [!example] How McCann writes in his novel TransAtlantic using Sentence Fragments
+> [!example]- How McCann writes in his novel TransAtlantic using Sentence Fragments
 > 
 > **Describe an object**
 > 
