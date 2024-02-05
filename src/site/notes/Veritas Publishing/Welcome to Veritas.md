@@ -24,6 +24,7 @@ My name is Kristoffer and there are two things I love most in this world: readin
 
 # Writing
 [[Veritas Publishing/Master Editing Checklist\|Master Editing Checklist]]
+[[Punctuation and Style\|Punctuation and Style]]
 
 # Systems Theory
 [[Veritas Publishing/How to read System Diagrams\|How to read System Diagrams]]
