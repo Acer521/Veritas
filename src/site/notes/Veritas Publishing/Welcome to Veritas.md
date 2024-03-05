@@ -19,6 +19,7 @@ My name is Kristoffer and there are two things I love most in this world: readin
 [[Veritas Publishing/Developing True Confidence\|Developing True Confidence]]
 [[Veritas Publishing/How to Accept Yourself\|How to Accept Yourself]]
 [[Veritas Publishing/Stop Comparing Yourself With Others\|Stop Comparing Yourself With Others]]
+[[Fear-setting\|Fear-setting]]
 # How to Learn
 [[Veritas Publishing/My Modified Zettelkasten (Obsidian) Tutorial\|My Modified Zettelkasten (Obsidian) Tutorial]]
 
