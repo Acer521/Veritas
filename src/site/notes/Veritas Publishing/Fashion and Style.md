@@ -9,11 +9,15 @@ Clothing is not merely a superficial layer; it is the armor that shapes percepti
 > — Mark Manson
 
 # FRANCO’s CRASH COURSE ON FASHION
+Franco has been a long-time friend, with a deep understanding of fashion theory. Joli Mae, in contrast, brings a clear sense of examples, inspirations, and a strong vision. By consulting them and asking for their help in styling me, I’ve gathered their knowledge into one concise guide on how to dress for style and influence.
+
 ### Must Have Items and Combinations
 - **Versatile Colors**: Pair chinos in khaki or black with a simple coat in brown, black, or dark blue for a versatile look. Add a color-coordinated brown belt for a polished touch. ✔
 - **Jewelry and Accessories**: Choose silver pieces to complement your style, including a silver watch, bracelet, choker necklace, and a bangle. They create the illusion of a whole set, making you less dull. ✔
-- **Belts**: Brown belt for contrast. A must have. ❗
+- **Plain T-Shirts**. These serve as inners. Best ones to get are white, black, cream, khaki, brown. ✔
 - **Coats**: Simple coats in brown, black, or dark blue. Other must haves. ✔
+- **Polo**: Minimal design. These can be layered on plain inners like coats. It offers quite the versatility. ✔
+- **Belts**: Brown belt for contrast. A must have. ❗
 - **Chinos**: Colors: Khaki and black. 
 - **White Loose Pants**: Casual pair with any T’s and formal pair with blazer pairs. 
 - **Black Pants**: Pair with brown or lighter-colored shoes. ✔
