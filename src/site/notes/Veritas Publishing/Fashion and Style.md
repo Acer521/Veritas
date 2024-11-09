@@ -29,7 +29,7 @@ Franco has been a long-time friend, with a deep understanding of fashion theory.
 ### Color and Style Guidelines
 - **Opt for Solid Colors**: "Solid colors" refer to fabrics dyed in a single, consistent color without any patterns, prints, or textures. They give you that endless versatility, timeless style, and that effortless polish. 
 - **Color Matching**:
-    - Avoid fully monochromatic outfits. Use *light or dark contrasts*, or incorporate a *combination of three* colors.
+    - Avoid fully monochromatic outfits. Use *light or dark contrasts*, or incorporate a *combination of three* colors. (khaki, black, and white)
     - Though whites and blacks come in various shades, providing subtle variations and contrasts for light and dark.
     - Inner (Top) vs. Outer (Layer):
         - If wearing lighter shorts and inner layer, choose a black outer layer.
