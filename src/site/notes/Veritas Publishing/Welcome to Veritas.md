@@ -12,7 +12,7 @@ My name is Kristoffer and there are two things I love most in this world: readin
 # Lifestyle
 [[Veritas Publishing/On Habits and Habit-building\|On Habits and Habit-building]]
 [[Veritas Publishing/Live in a world where you can only live for a day\|Live in a world where you can only live for a day]]
-
+[[Veritas Publishing/Fashion and Style\|Fashion and Style]]
 # Psychology and Therapy
 [[Veritas Publishing/Acceptance and Commitment Therapy - Techniques for thoughts and feelings\|Acceptance and Commitment Therapy - Techniques for thoughts and feelings]]
 [[Veritas Publishing/Fear doesn’t need to hold you back\|Fear doesn’t need to hold you back]]
