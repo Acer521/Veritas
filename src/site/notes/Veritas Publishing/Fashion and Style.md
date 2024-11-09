@@ -14,7 +14,7 @@ Franco has been a long-time friend, with a deep understanding of fashion theory.
 ### Must Have Items and Combinations
 - **Versatile Colors**: Pair chinos in khaki or black with a simple coat in brown, black, or dark blue for a versatile look. Add a color-coordinated brown belt for a polished touch. ✔
 - **Jewelry and Accessories**: Choose silver pieces to complement your style, including a silver watch, bracelet, choker necklace, and a bangle. They create the illusion of a whole set, making you less dull. ✔
-- **Plain T-Shirts**. These serve as inners. Best ones to get are white, black, cream, khaki, brown. ✔
+- **Plain T-Shirts**. These serve as inners. Best ones to get are white, black, cream, grey, khaki, brown. ✔
 - **Coats**: Simple coats in brown, black, or dark blue. Other must haves. ✔
 - **Polo**: Minimal design. These can be layered on plain inners like coats. It offers quite the versatility. ✔
 - **Belts**: Brown belt for contrast. A must have. ❗
