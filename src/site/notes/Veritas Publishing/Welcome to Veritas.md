@@ -10,6 +10,7 @@ My name is Kristoffer and there are two things I love most in this world: readin
 > Publishing would not be as fast as I would’ve liked. I can publish all of my notes, a combined total of three million words, but I found that absolutely unreadable when I did that in Github. As such, I shall try my utmost to rewrite each note, while retaining what I find important in each of them, so that you dear readers can read them with ease. Thank you for understanding. 
 
 # Lifestyle
+[[ART OF TIMELESS WISDOM\|ART OF TIMELESS WISDOM]]
 [[Veritas Publishing/On Habits and Habit-building\|On Habits and Habit-building]]
 [[Veritas Publishing/Live in a world where you can only live for a day\|Live in a world where you can only live for a day]]
 [[Veritas Publishing/Fashion and Style\|Fashion and Style]]
